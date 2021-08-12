@@ -2,43 +2,33 @@
 <well name="North" id="1">
     <equipment name="first" id="1"/>
     <equipment name="fourth" id="4"/>
-    <equipment name="6b151dea-5e30-4813-bb79-a871602abee2" id="25"/>
-    <equipment name="408eb78d-1707-4209-b1ed-9f8f9a451410" id="26"/>
-    <equipment name="aa498f1c-135b-4e83-b36b-41963823015f" id="27"/>
-    <equipment name="864da1c0-bf9f-43da-9e5a-f0294bff870a" id="28"/>
-    <equipment name="50e27334-577b-4e01-8818-6f88fe80d611" id="29"/>
-    <equipment name="76c2f3bb-fc0e-4592-8a3a-ce1d4a28c097" id="30"/>
-    <equipment name="8fb49536-5641-46d2-a951-28c5f44c51b3" id="31"/>
-    <equipment name="aec2384b-91ed-4d48-a089-0ac063ef1e82" id="32"/>
-    <equipment name="1684e8b0-c7ba-41a2-a003-86515a05a895" id="33"/>
-    <equipment name="43dda8e2-e066-403d-a526-6671761473db" id="34"/>
 </well>
 <well name="West" id="2">
     <equipment name="second" id="2"/>
 </well>
 <well name="East" id="3">
     <equipment name="third" id="3"/>
+    <equipment name="11b080ae-df83-4f70-8f63-7eced4652322" id="20"/>
+    <equipment name="591c8c89-1efa-49e3-a720-b0d1f1aec0c6" id="21"/>
+    <equipment name="49aee936-ae50-4236-84ee-9f78aed2ba6e" id="22"/>
+    <equipment name="ac77189d-8012-40fe-afed-6030db5b1d7f" id="23"/>
+    <equipment name="c0d00934-88b0-44d8-9bc3-8e5325a1b9cc" id="24"/>
 </well>
 <well name="South" id="4">
-    <equipment name="870721f8-a6f3-4bf5-904b-d2fefb945a31" id="5"/>
-    <equipment name="bc5a9c85-cd87-440c-bda9-e44438a5fb03" id="6"/>
-    <equipment name="606291c2-81af-486c-8f61-2da519c6edaf" id="7"/>
-    <equipment name="22782d1f-11ac-45df-a34a-ff8b656b81cd" id="8"/>
-    <equipment name="9e2a5538-681d-4f48-b528-8fdf305e5d03" id="9"/>
-    <equipment name="bc865f96-3ff7-40db-8f90-8cf09e16adc3" id="10"/>
-    <equipment name="ee112e47-f363-4a72-9309-40d7a8f95757" id="11"/>
-    <equipment name="9ebd305e-484e-4484-ae0c-11587346e88b" id="12"/>
-    <equipment name="ecd7e8cc-ccdc-4d44-bac4-7d8e4efce872" id="13"/>
-    <equipment name="8f8e14bf-aca1-43d9-a2fd-217b50b6aa7f" id="14"/>
-    <equipment name="71327538-e060-4566-8ef0-1a2b4e622ef5" id="15"/>
-    <equipment name="16d296d2-af9e-4793-a127-13c9f61c5fd0" id="16"/>
-    <equipment name="72f3ae9d-b1d4-4f2a-afa2-455fdaf0264e" id="17"/>
-    <equipment name="897cf8c4-b93d-4f68-9690-95678c8cab58" id="18"/>
-    <equipment name="a4654410-b021-4d10-8bf4-f83e866e9d1c" id="19"/>
-    <equipment name="dea25e69-30cf-4a85-886a-4de4c9ad6771" id="20"/>
-    <equipment name="4bd24c4a-4498-4712-b58b-e92ed16f1c4f" id="21"/>
-    <equipment name="340797cb-0e6c-4124-ab35-a2efdbadbf63" id="22"/>
-    <equipment name="eb960ee6-8239-4cd7-ba94-9d0f76c4e716" id="23"/>
-    <equipment name="da01029c-e7f5-4ab7-9463-ca1c0ac338af" id="24"/>
+    <equipment name="9852af63-7e03-4502-a2d2-4485d9c7e019" id="5"/>
+    <equipment name="73669ce7-df28-4bb7-8d2e-5af316d45cc5" id="6"/>
+    <equipment name="bdd79353-e0da-45f2-8af9-d7d14a2d1870" id="7"/>
+    <equipment name="b2949829-2a26-487d-a00d-66da669767c5" id="8"/>
+    <equipment name="e37d3b8d-4dd3-4be7-b0ed-a11c4b4e88c1" id="9"/>
+    <equipment name="e71a52fc-e3a7-4647-b34f-fc721884ff7d" id="10"/>
+    <equipment name="83596e97-15d5-4c0a-ac97-ddd2a9bb72f7" id="11"/>
+    <equipment name="c512b902-f441-43eb-b948-e48e33a92c2f" id="12"/>
+    <equipment name="2782b78a-6ed2-42ae-8237-26d23450b97a" id="13"/>
+    <equipment name="4b4d4d08-f8a8-47e7-b523-ca4ab569cb81" id="14"/>
+    <equipment name="3ac8b387-f0ee-41e8-9869-9f418e3516ef" id="15"/>
+    <equipment name="21b6d732-cbaf-4c5d-9b55-09c1e11a01a7" id="16"/>
+    <equipment name="f48f0776-26c5-41ac-94e7-6a67d357f639" id="17"/>
+    <equipment name="63d95748-d92e-46fb-b7ff-ac612f3cf480" id="18"/>
+    <equipment name="50d3a22a-315d-4f7e-ac52-f7408590d355" id="19"/>
 </well>
 </dbinfo>
