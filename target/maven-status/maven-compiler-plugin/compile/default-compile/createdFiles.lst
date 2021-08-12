@@ -1,0 +1,11 @@
+com\opendev\odtask\core\domain\Equipment.class
+com\opendev\odtask\connection\ConnectionProvider.class
+com\opendev\odtask\core\dao\WellDao.class
+com\opendev\odtask\OdTask.class
+com\opendev\odtask\connection\ScriptReader.class
+com\opendev\odtask\formatter\Formatter.class
+com\opendev\odtask\ui\UserInterface.class
+com\opendev\odtask\core\dao\impl\WellDaoImpl.class
+com\opendev\odtask\core\domain\Well.class
+com\opendev\odtask\core\dao\impl\EquipmentDaoImpl.class
+com\opendev\odtask\core\dao\EquipmentDao.class

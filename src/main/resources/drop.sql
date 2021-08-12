@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS equipment;
+
+DROP TABLE IF EXISTS wells;
